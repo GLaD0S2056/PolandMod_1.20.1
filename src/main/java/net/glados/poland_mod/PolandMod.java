@@ -55,7 +55,7 @@ public class PolandMod
         @SubscribeEvent
         public static void onClientSetup(FMLClientSetupEvent event)
         {
-         
+
         }
     }
 }
